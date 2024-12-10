@@ -2,25 +2,23 @@
 
 # Disclaimer
 
-By downloading this software, the user acknowledges that it is unsupported, not reviewed for security purposes, and that the user assumes all risk for running it.
+To broaden collaboration and facilitate the adoption and expansion of customer solutions, PTC is sharing several field-developed IoT components. 
 
-Users accept all risk whatsoever regarding the security of the code they download.
+These artifacts are built using ThingWorx best practices, including the Building Block structure where appropriate, and are available to PTC Customers, Partners, and Customer Success for incorporation and enhancement as needed for specific use cases.
 
-This Software is not officially supported by PTC
+Please note, these components are not covered by PTC Technical Support and are not subject to any Technical Support Service Level Agreements (SLAs). 
 
-PTC will not accept technical support cases logged related to to this Software
+However, PTC Customer Success teams and resources will, on a best-effort basis:
 
-ThingWorx R&D will not be responsible for any code on the PTC GitHub repository.
+* Maintain and manage functionality across ThingWorx platform version releases.
+* Actively address reported bugs.
+* Continue to enhance functionality opportunistically and by request where possible.
 
-PTC has not performed its full breadth of testing and quality assurance on this software.
+ThingWorx subscription users can continue to log technical support tickets. ThingWorx Platform Technical Support will assist in isolating root causes and addressing platform-related product issues through standard ThingWorx platform maintenance. 
 
-This Software has not been released for general distribution or sale.
+If the issue pertains to this specific component offered via PTC GitHub, PTC Support will direct inquiries to the appropriate internal PTC teams for further assistance.
 
-This Software may not be compatible with any existing or future commercial release versions of PTC software.
-
-PTC is under no obligation to and may never commercially release this software or other software containing functionality contained in this Software.
-
-PTC is not responsible for any maintenance for this software.
+These shared components are provided "as is," without any warranty, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement.
 
 # Overview
 
