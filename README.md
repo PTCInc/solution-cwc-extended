@@ -20,9 +20,31 @@ These shared components are provided "as is," without any warranty, express or i
 
 # Overview
 
-DESCRIPTION
+CWC-eDHR / Extended offers adopters a widely expanded set of CWC functionality to better model their plant floor use cases. For Medical Device customers, specifically, it offers the ability to generate eDHR records on an easily validated GxP environment. The following are flagship features of CWC-eDHR / Extended: 
 
-All content is provided as "Releases" and is not directly in the Git Repo.  Cloning this Git Repo will not provide any content.
+* Promotion Between Servers - Develop CWC work instructions and routes on one environment, then seamlessly push them to another for execution. Critical for building an optimized QA / Production instance stack. 
+
+* QA Report (eDHR) - View all the details of a product's execution (route) focused on the quality test results gathered throughout. See operator notes and attachments, allow QA to leave comments. Be automatically alerted of exceptions in the product's manufacturing process. In Med Dev use cases, generates your Device History Record. 
+
+* Printable QA Report & Route - Render all the results of the QA Report as a printable PDF for cold storage or distribution to other parties. Concerned about how to operate during an internet outage? Pre-print your entire instructional route to maintain operations during digital outages. 
+
+* Rework / Child Order Mechanism - Model rework scenarios through a parent / child order framework that lets you invoke new instructions built to model rework scenarios. Combine both into one QA Report automatically to see the entire history of a product. Also critical in modeling parent / child lot scenarios where the history of a batch must trace from the parent lot through to all its children. 
+
+* Parallel Work Instruction Execution - Model routes where multiple operations must occur on a single product or batch at the same time. Enables the ability to create routes capturing large scale batch manufacturing and also covers scenarios like guiding line changeover. 
+
+* Fabrication Log Sheets as an Assembly Step Type - The Fabrication module of CWC can now be used as a step type in Assembly execution mode. Provide operators with a  log sheet where they can measure repeat samples. Includes numerous new abilities like datetime grading for calibration checks, e-signature items for sign-in sheets, and mandatory attributes - the ability to vary which measurements are required sample-to-sample. 
+
+* End Point Step Type - Framework to include custom communication with a third-party system (MES, ERP, etc.) as a step in CWC work instructions. Ensure operators are guided to when to sync with an external system, or send results to an external system at a certain point in your process. 
+
+* Per-Step E-Signatures - For validated environments, gather an e-signature with every step to ensure you know who-did-what during the manufacturing process. 
+
+* Four-Eye Approval for Routes & Work Instructions - Want to ensure changes to work instructions and routes are well reviewed before entering production? Enforce two unique signatures per approval with this configurable feature. 
+
+* Audit Report  - One stop shop front end report to see who-did-what-when of actions across the system. Easily searchable and exportable, removes the need to traverse system logs. 
+
+* Pre-Built GxP Document Set - CWC Extended comes prepared with a full document set to accelerate your GxP validation event. Includes URS, FDS, TDS, IQ, Trace Matrix, UAT Scripts and System Manual. 
+
+This is not a comprehensive list, CWC-eDHR / Extended contains many more quality of life, authoring, reporting, and auditability functionality. 
 
 # License
 
