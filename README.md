@@ -42,7 +42,9 @@ CWC-eDHR / Extended offers adopters a widely expanded set of CWC functionality t
 
 * Audit Report  - One stop shop front end report to see who-did-what-when of actions across the system. Easily searchable and exportable, removes the need to traverse system logs. 
 
-* Pre-Built GxP Document Set - CWC Extended comes prepared with a full document set to accelerate your GxP validation event. Includes URS, FDS, TDS, IQ, Trace Matrix, UAT Scripts and System Manual. 
+* Pre-Built GxP Document Set - CWC Extended comes prepared with a full document set to accelerate your GxP validation event. Includes URS, FDS, TDS, IQ, Trace Matrix, UAT Scripts and System Manual.
+
+* MPMLink integration to automate work instructions from Windchill process plan and Creo CAD data
 
 This is not a comprehensive list, CWC-eDHR / Extended contains many more quality of life, authoring, reporting, and auditability functionality. 
 
